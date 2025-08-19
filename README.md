@@ -16,8 +16,8 @@ A modern Next.js boilerplate with shadcn/ui components, TypeScript, and Tailwind
 
 1. Clone this repository:
 ```bash
-git clone <your-repo-url>
-cd nextjs-shadcn-boilerplate
+git clone https://github.com/wicq/nextjs-boilerplate.git
+cd nextjs-boilerplate
 ```
 
 2. Install dependencies:
